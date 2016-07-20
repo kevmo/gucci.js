@@ -1,0 +1,2 @@
+# gucci.js
+gucci.mane()
