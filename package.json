@@ -1,0 +1,25 @@
+{
+  "name": "gucci.js",
+  "version": "1.0.0",
+  "description": "Burrrr!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevmo/gucci.js.git"
+  },
+  "keywords": [
+    "Gucci",
+    "Mane",
+    "Brrrr",
+    "Trap"
+  ],
+  "author": "kevmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevmo/gucci.js/issues"
+  },
+  "homepage": "https://github.com/kevmo/gucci.js#readme"
+}
